@@ -2,7 +2,7 @@
 
 
 This application is an example of shopping app store.
-#
+##
 This app is not a finished product and can be upgraded and add more features.
 
 ### In this app I've used:
